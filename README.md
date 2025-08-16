@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sulaiman Zahir 👋
 
-<!--
-**sulaimanzahirdev-coder/sulaimanzahirdev-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack .NET Developer** with experience in:  
+- ASP.NET Core, MVC, EF Core  
+- Frontend: HTML, CSS, JavaScript, jQuery, React  
+- Database: SQL Server  
+- Building SaaS applications & APIs  
 
-Here are some ideas to get you started:
+🌟 **Highlights**  
+- 💡 Built [QuickURL](#) – URL shortener with .NET 8  
+- 🚗 Developed SaaS Valet Parking Management System  
+- 💳 Experience with POS & Payment Integrations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me**  
+- LinkedIn: [linkedin.com/in/sulaimanzahir](https://www.linkedin.com/in/sulaimanzahir)  
+- GitHub: [github.com/sulaimanzahirdev-coder](https://github.com/sulaimanzahirdev-coder)  
+- Email: sulaiman.zahir.dev@gmail.com  
+
+---
+⭐️ *Check out my pinned projects below!*
